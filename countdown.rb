@@ -10,4 +10,4 @@ if number == 0
 end
 end 
 
-def count
+def countdown_with_sleep(number)
